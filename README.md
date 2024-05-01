@@ -1,13 +1,16 @@
  ## <p align=center>👋 Hi, I’m IsNott</p>
 
+ <p align="center">
+   <a href="https://vbr.nathanchung.dev/badge?page_id=isnott.isnott"> <img alt="isnott github" src="https://vbr.nathanchung.dev/badge?page_id=isnott.isnott"> </a>
+ </p>
+
 -   💻 Junior Full Stack Developer
 -   ☁ Current working on SpringCloud project
 -   ☕ Base on Java Language
 -   ⚛ Current Learing Front End(Next && React)
-
 -   📬 Reach me at: isnott1028@outlook.com
 
- ![visitors](https://vbr.nathanchung.dev/badge?page_id=isnott.isnott&color=00cf00)
+
 
 
 
