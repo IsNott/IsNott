@@ -1,5 +1,4 @@
  ## <p align=center>👋 Hi, I’m IsNott</p>
-
  <p align="center">
    <a href="https://vbr.nathanchung.dev/badge?page_id=isnott.isnott"> <img alt="isnott github" src="https://vbr.nathanchung.dev/badge?page_id=isnott.isnott"> </a>
  </p>
@@ -14,7 +13,7 @@
 
 
 
-## Skill tags
+## 🏷️ Skill tags
 ![](https://img.shields.io/badge/Java-blue?logo=java)
 ![](https://img.shields.io/badge/Python-blue?logo=python)
 
@@ -40,14 +39,14 @@
 </p>
 
 
-## OverView
+## 🤖 OverView
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isnott&show_icons=true&theme=dracula)
 
-## 🙏 Support
-- 👨‍🚀 Contributions,🙋‍♂️ issues, ➕ create features PR.
-- 🧡 If you like my projects,⭐ Give a start for them or share it.
-- 👨🏻‍💻 Create awesome project with me.
+## 🤝 Support
+- 👨‍🚀 Contributions,🙋‍♂️ Issues, ➕ Create some features PR.
+- 🧡 If you like my projects,⭐ Give a star for them or share it to your friends.
+- 👨🏻‍💻 Cooperate some awesome project with me.
 
 
 
