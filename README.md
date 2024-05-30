@@ -1,16 +1,15 @@
- ## <p align=center>👋 Hi, I’m IsNott</p>
+<p align=center>👋 Hi, I’m IsNott</p>
  <p align="center">
    <a href="https://vbr.nathanchung.dev/badge?page_id=isnott.isnott"> <img alt="isnott github" src="https://vbr.nathanchung.dev/badge?page_id=isnott.isnott"> </a>
  </p>
 
 -   💻 Junior Full Stack Developer
--   ☁ Current working on SpringCloud project
+-   ☁ Current working on My simple payment project
 -   ☕ Base on Java Language
--   ⚛ Current Learing Front End(Next && React)
+-   ⚛ Current Learing Front End(Vue2.x & 3.x)
+-   📽 A movie and TV addict
 -   📬 Reach me at: isnott1030@outlook.com
-
-
-
+-   🔍 Looking for some cooperation opportunities or idea with open sources project.
 
 
 ## 🏷️ Skill tags
