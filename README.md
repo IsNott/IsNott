@@ -4,13 +4,11 @@
  </p>
 
 -   💻 Junior Full Stack Developer
--   ☁ Current working on My simple payment project
+-   ☁ Current working on My simple minecraft server.
 -   ☕ Base on Java Language
 -   ⚛ Current Learing Front End(Vue2.x & 3.x)
--   📽 A movie and TV addict
--   📬 Reach me at: isnott1030@outlook.com
--   🔍 Looking for some cooperation opportunities or idea with open sources project.
-
+-   📬 Reach me at: isnott102em8@outlook.com
+-   🎮 Minecraft game fans.
 
 ## 🏷️ Skill tags
 ![](https://img.shields.io/badge/Java-blue?logo=java)
