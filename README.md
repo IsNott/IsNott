@@ -6,8 +6,7 @@
 -   💻 Junior Full Stack Developer
 -   ☁ Current working on My simple minecraft server.
 -   ☕ Base on Java Language
--   ⚛ Current Learing Front End(Vue2.x & 3.x)
--   📬 Reach me at: isnott102em8@outlook.com
+-   📬 Reach me at: isnott1028@outlook.com
 -   🎮 Minecraft game fans.
 
 ## 🏷️ Skill tags
