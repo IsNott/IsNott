@@ -3,6 +3,8 @@
    <a href="https://vbr.nathanchung.dev/badge?page_id=isnott.isnott"> <img alt="isnott github" src="https://vbr.nathanchung.dev/badge?page_id=isnott.isnott"> </a>
  </p>
 
+有偿接Java毕业设计、课程作业等各种项目需求<br>
+可提交Issues留言或发送邮件到isnott1028@outlook.com<br>
 <!-- -   💻 Junior Full Stack Developer
 -   ☁ Current working on My simple minecraft server.
 -   ☕ Base on Java Language
