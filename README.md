@@ -5,6 +5,9 @@
 
 有偿接Java毕业设计、课程作业等各种项目需求<br>
 可提交Issues留言或发送邮件到wannatastetheworld@qq.com<br>
+Looking for some small-middle Java project part-time work chances.<br>
+Reach me at wannatastetheworld@qq.com or give a issue for this repository.
+
 <!-- -   💻 Junior Full Stack Developer
 -   ☁ Current working on My simple minecraft server.
 -   ☕ Base on Java Language
