@@ -3,8 +3,8 @@
    <a href="https://vbr.nathanchung.dev/badge?page_id=isnott.isnott"> <img alt="isnott github" src="https://vbr.nathanchung.dev/badge?page_id=isnott.isnott"> </a>
  </p>
 
-有偿接Java毕业设计、课程作业等各种项目需求<br>
-可提交Issues留言或发送邮件到wannatastetheworld@qq.com<br>
+承接中小型Java Web项目，可满足纯后端、前后端分离等需求。<br>
+有需要请联系 wannatastetheworld@qq.com <br>
 Looking for some small-middle Java project part-time work opportunities.<br>
 Reach me at wannatastetheworld@qq.com or give a issue for this repository.
 
