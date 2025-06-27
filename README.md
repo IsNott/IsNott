@@ -3,11 +3,6 @@
    <a href="https://vbr.nathanchung.dev/badge?page_id=isnott.isnott"> <img alt="isnott github" src="https://vbr.nathanchung.dev/badge?page_id=isnott.isnott"> </a>
  </p>
 
-<!-- 承接中小型Java Web项目，可满足纯后端、前后端分离等需求。<br>
-有需要请联系 wannatastetheworld@qq.com <br>
-Looking for some small-middle Java project part-time work opportunities.<br>
-Reach me at wannatastetheworld@qq.com or give a issue for this repository.
--->
 
 <!-- -   💻 Junior Full Stack Developer
 -   ☁ Current working on My simple minecraft server.
@@ -39,11 +34,11 @@ Reach me at wannatastetheworld@qq.com or give a issue for this repository.
 <p align="center">🕊 Stand on peace,against the war. 🕊 
 </p>
 
-
+<!--
 ## 🤖 OVERVIEW
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isnott&show_icons=true&theme=dracula)
-
+-->
 ## 🤝 Support
 - 🧡 If you like my projects,⭐ Give a star for them or share it to your friends.
 <!-- - 👨🏻‍💻 Cooperate some awesome project with me.
