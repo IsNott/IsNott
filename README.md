@@ -11,7 +11,7 @@
 -   🎮 Minecraft game fans.
 -->
 
-## 🏷️ Skill tags
+## 🏷️ Tags
 ![](https://img.shields.io/badge/Java-blue?logo=java)
 ![](https://img.shields.io/badge/Python-blue?logo=python)
 ![](https://img.shields.io/badge/Javascript-blue?logo=javascript)
@@ -34,14 +34,15 @@
 <p align="center">🕊 Stand on peace,against the war. 🕊 
 </p>
 
-<!--
+
 ## 🤖 OVERVIEW
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isnott&show_icons=true&theme=dracula)
--->
+
+<!--
 ## 🤝 Support
 - 🧡 If you like my projects,⭐ Give a star for them or share it to your friends.
-<!-- - 👨🏻‍💻 Cooperate some awesome project with me.
+ - 👨🏻‍💻 Cooperate some awesome project with me.
 - 👨‍🚀 Contributions,🙋‍♂️ Issues, ➕ Create some features PR.
 -->
 
